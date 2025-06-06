@@ -5,7 +5,7 @@
 }
 
 html,body{
-    height: fit-content;
+    height: 100%;
     width: 100%;
 }
 
@@ -29,11 +29,11 @@ input{
 }
 
 h1{
-   margin-top: 50px;
-   margin-bottom: 50px;
+   margin-top: 20px;
+   margin-bottom: 20px;
    color: crimson;
    font-weight: bold;
-   font-size: 50px;
+   font-size: 40px;
    font-family: cursive;
 }
 

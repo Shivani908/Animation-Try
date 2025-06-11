@@ -4,13 +4,10 @@
     box-sizing: border-box;
 }
 
-
-
 html,body{
     height: 100%;
     width: 100%;
 }
-
 
 body{
     /* background: ; */
@@ -25,25 +22,20 @@ body{
     height: 100vh;
 }
 
-
 .container{
     display: flex;
 }
-
 
 .one{
     top: 85px;
     left: 140px;
 }
 
-
-
 .two{
     top: 85px;
     left: 285px;
 
 }
-
 
 .outer{
     top: 110;
@@ -55,7 +47,6 @@ body{
     animation: spin 1s linear infinite;
 }
 
-
 .mid{
     top: 15px;
     left: 15px;
@@ -66,7 +57,6 @@ body{
     border-left: solid 5px rgb(116, 3, 3);
     animation: spin  3s linear infinite;
 }
-
 
 @keyframes spin {
 
